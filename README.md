@@ -6,7 +6,7 @@ LIRI Bot is a command line application using Node.js and several modules install
 
 [![Liri Bot](http://img.youtube.com/vi/k4QeRQAnSho/0.jpg)](https://www.youtube.com/watch?v=k4QeRQAnSho)
 
-1. LIRI was created to perform searchs: Bands in Town for concerts, and OMDB for movies, Spotify for song tracks
+1. LIRI was created to perform searches: Bands in Town for concerts, and OMDB for movies, Spotify for song tracks
 
 2. The application uses the `axios` package to connect to the various APIs, as well as other modules for various tasks:
 
